@@ -24,7 +24,7 @@ I enjoy turning real-world problems into efficient digital solutions.
 - 👨‍💻 Languages: `Python` `JavaScript` `C++` `PHP`
 - 🌐 Web: `Laravel` `Node.js` `HTML` `CSS` `Bootstrap`
 - 🗄️ Database: `MySQL`
-- 🧰 Tools: `Git` `GitHub` `VS Code`
+- 🧰 Tools: `Git` `GitHub` `VS Code` `Figma`
 
 ---
 
