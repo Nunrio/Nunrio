@@ -23,7 +23,7 @@ I enjoy turning real-world problems into efficient digital solutions.
 ### ⚙️ Tech Stack
 - 👨‍💻 Languages: `Python` `JavaScript` `C++` `PHP`
 - 🌐 Web: `Laravel` `Node.js` `HTML` `CSS` `Bootstrap`
-- 🗄️ Database: `MySQL`
+- 🗄️ Database: `MySQL` `Firebase`
 - 🧰 Tools: `Git` `GitHub` `VS Code` `Figma`
 
 ---
